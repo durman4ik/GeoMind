@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GeoMind</string>
+    <string name="action_settings">Настройки</string>
+    <string name="true_button">Правда</string>
+    <string name="false_button">Ложь</string>
+    <string name="correct_answer">Правильно</string>
+    <string name="incorrect_answer">Не правильно</string>
+    <string name="next_button">Дальше</string>
+    <string name="prev_button">Назад</string>
+
+    <string name="question_minsk">Минск - столица Великобритании.</string>
+    <string name="question_oceans">Тихий океан больше чем Атлантический.</string>
+    <string name="question_mideast">Суэцкий канал соединяет Красное море и Индийский океан.</string>
+    <string name="question_africa">Река Нил начинается в Египте.</string>
+    <string name="question_americas">Река Амазонка самая длинная в Южной Америке.</string>
+    <string name="question_asia">Озеро Байкал - самое старое и глубокое в мире пресноводное озеро.</string>
+
+</resources>
