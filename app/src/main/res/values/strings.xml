@@ -8,7 +8,6 @@
     <string name="correct_answer">Правильно</string>
     <string name="incorrect_answer">Не правильно</string>
     <string name="next_button">Дальше</string>
-    <string name="prev_button">Назад</string>
 
     <string name="question_minsk">Минск - столица Великобритании.</string>
     <string name="question_oceans">Тихий океан больше чем Атлантический.</string>
@@ -16,5 +15,7 @@
     <string name="question_africa">Река Нил начинается в Египте.</string>
     <string name="question_americas">Река Амазонка самая длинная в Южной Америке.</string>
     <string name="question_asia">Озеро Байкал - самое старое и глубокое в мире пресноводное озеро.</string>
+    <string name="show_answer_button">Показать ответ</string>
+    <string name="warning_text">Вы уверены, что хотите посмотреть правильный ответ?</string>
 
 </resources>
