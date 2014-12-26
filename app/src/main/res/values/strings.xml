@@ -17,5 +17,8 @@
     <string name="question_asia">Озеро Байкал - самое старое и глубокое в мире пресноводное озеро.</string>
     <string name="show_answer_button">Показать ответ</string>
     <string name="warning_text">Вы уверены, что хотите посмотреть правильный ответ?</string>
+    <string name="twenty_for_hours">Полный оборот Земли вокруг своей оси осуществляется за  24 часа.</string>
+    <string name="ecuator_length">Длина экватора 40075 км.</string>
+    <string name="mars_orbit">Марс имеет наименьшую протяженность орбиты.</string>
 
 </resources>
